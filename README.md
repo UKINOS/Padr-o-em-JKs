@@ -6,11 +6,11 @@ Basicamente, esse código vai:
 
 1 - Apresentar as representacões binárias de cada número:
 
-  2 JKs = 4 valores (de 0 a 3)
+      2 JKs = 4 valores (de 0 a 3)
   
-  3 JKs = 8 valores (de 0 a 7)
+      3 JKs = 8 valores (de 0 a 7)
   
-  4 JKs = 16 valores (de 0 a 15)
+      4 JKs = 16 valores (de 0 a 15)
 
 2 - Apresenta uma lista com os valores de 0, 1 e X (X sendo o estado de não importa)
 
